@@ -1,0 +1,13 @@
+.weather {
+  align-items: center;
+  display: flex;
+}
+
+.weather-main {
+  font-size: 24px;
+  margin: 0 12px;
+}
+
+.weather-second {
+  margin-right: 4px;
+}
